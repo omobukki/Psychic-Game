@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lato', sans-serif;
+  }
+
+.letterBank {
+background-color: aliceblue;
+color: azure;
+
+}
+
+.letterGuess {
+background-color: #ddddee;
+text-align: left;
+color: #000;
+padding: 2px;
+}
+
+.letterLeft {
+    background-color: #ddddee;
+    text-align: left;
+    
+
+}
+
+.letterLeft {
+    background-color: #ddddee;
+    
+}
+
+.submit {
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+
+
